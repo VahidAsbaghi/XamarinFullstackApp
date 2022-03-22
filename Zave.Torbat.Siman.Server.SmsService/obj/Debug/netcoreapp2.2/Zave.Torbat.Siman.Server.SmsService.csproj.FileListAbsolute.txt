@@ -1,0 +1,10 @@
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\bin\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.deps.json
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\bin\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\obj\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\obj\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\obj\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\bin\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\obj\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\obj\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\obj\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.csprojAssemblyReference.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Server.SmsService\bin\Debug\netcoreapp2.2\Zave.Torbat.Siman.Server.SmsService.dll.config

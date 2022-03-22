@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="1.1" package="Zave.Cement" android:installLocation="auto">
+	<uses-sdk android:targetSdkVersion="27" android:minSdkVersion="14" />
+	<application android:allowBackup="true" android:icon="@drawable/logo" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme"></application>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<!-- Android 10 or higher -->
+	<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+	<meta-data android:name="pushe_token" android:value="MmV5bTZybWxwNmo3ejN6ZUB0ZGxANzUzNDQ4NzMwOTQ4" />
+</manifest>

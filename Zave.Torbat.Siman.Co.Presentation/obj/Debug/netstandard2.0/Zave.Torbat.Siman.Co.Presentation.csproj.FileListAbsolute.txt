@@ -1,0 +1,15 @@
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.deps.json
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.csprojAssemblyReference.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Core.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Core.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\obj\Debug\netstandard2.0\Zave.Torbat.Siman.Co.Presentation.csproj.CopyComplete
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Xamarin.Essentials.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Xamarin.Essentials.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Presentation\bin\Debug\netstandard2.0\Xamarin.Essentials.xml

@@ -1,0 +1,11 @@
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\bin\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.deps.json
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\bin\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.runtimeconfig.json
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\bin\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.runtimeconfig.dev.json
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\bin\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\bin\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\obj\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\obj\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\obj\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\obj\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\obj\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Model\obj\Release\netcoreapp2.2\Zave.Torbat.Siman.Model.csprojAssemblyReference.cache

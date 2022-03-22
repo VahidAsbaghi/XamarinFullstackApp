@@ -1,0 +1,9 @@
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\bin\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.deps.json
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\bin\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\bin\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.pdb
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\obj\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.csprojAssemblyReference.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\obj\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\obj\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.AssemblyInfoInputs.cache
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\obj\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.AssemblyInfo.cs
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\obj\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.dll
+C:\Users\Vahid\source\repos\Zave.Torbat.Siman.Co\Zave.Torbat.Siman.Co.Core\obj\Release\netstandard2.0\Zave.Torbat.Siman.Co.Core.pdb

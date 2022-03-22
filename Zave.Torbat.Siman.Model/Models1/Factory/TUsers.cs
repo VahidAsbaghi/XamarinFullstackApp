@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Zave.Torbat.Siman.Model.Models1.Factory
+{
+    public partial class TUsers
+    {
+        public int Row { get; set; }
+        public string Username { get; set; }
+        public string Pass { get; set; }
+        public int Control { get; set; }
+        public string Name { get; set; }
+        public string Post { get; set; }
+        public bool? Free { get; set; }
+        public bool? A1 { get; set; }
+        public bool? A2 { get; set; }
+        public bool? A3 { get; set; }
+        public bool? A4 { get; set; }
+        public bool? A5 { get; set; }
+        public bool? A6 { get; set; }
+        public bool? A7 { get; set; }
+        public bool? A8 { get; set; }
+        public bool? A9 { get; set; }
+        public bool? A10 { get; set; }
+        public bool? A11 { get; set; }
+        public bool? A12 { get; set; }
+        public bool? A13 { get; set; }
+        public bool? A14 { get; set; }
+        public bool? A15 { get; set; }
+        public bool? A16 { get; set; }
+        public bool? A17 { get; set; }
+        public bool? A18 { get; set; }
+        public bool? A19 { get; set; }
+        public bool? A20 { get; set; }
+        public bool? A21 { get; set; }
+        public bool? A22 { get; set; }
+        public bool? A23 { get; set; }
+        public bool? A24 { get; set; }
+        public bool? A25 { get; set; }
+        public bool? A26 { get; set; }
+        public bool? A27 { get; set; }
+        public bool? A28 { get; set; }
+        public bool? A29 { get; set; }
+        public bool? A30 { get; set; }
+        public bool? A31 { get; set; }
+        public bool? A32 { get; set; }
+        public bool? A33 { get; set; }
+        public bool? A34 { get; set; }
+        public bool? A35 { get; set; }
+        public bool? A36 { get; set; }
+        public bool? A37 { get; set; }
+        public bool? A38 { get; set; }
+        public bool? A39 { get; set; }
+        public bool? A40 { get; set; }
+        public bool? A41 { get; set; }
+        public bool? A42 { get; set; }
+        public bool? A43 { get; set; }
+        public bool? A44 { get; set; }
+        public bool? A45 { get; set; }
+        public bool? A46 { get; set; }
+        public bool? A47 { get; set; }
+        public bool? A48 { get; set; }
+        public bool? A49 { get; set; }
+        public bool? A50 { get; set; }
+        public bool? A51 { get; set; }
+        public bool? A52 { get; set; }
+        public bool? A53 { get; set; }
+        public bool? A54 { get; set; }
+        public bool? A55 { get; set; }
+        public bool? A56 { get; set; }
+        public bool? A57 { get; set; }
+        public bool? A58 { get; set; }
+        public bool? A59 { get; set; }
+        public bool? A60 { get; set; }
+        public bool? A61 { get; set; }
+        public bool? A62 { get; set; }
+        public bool? A63 { get; set; }
+        public bool? A64 { get; set; }
+        public bool? A65 { get; set; }
+        public bool? A66 { get; set; }
+        public bool? A67 { get; set; }
+        public bool? A68 { get; set; }
+        public bool? A69 { get; set; }
+        public bool? A70 { get; set; }
+        public bool? A71 { get; set; }
+        public bool? A72 { get; set; }
+        public bool? A73 { get; set; }
+        public bool? A74 { get; set; }
+        public bool? A75 { get; set; }
+        public bool? A76 { get; set; }
+        public bool? A77 { get; set; }
+        public bool? A78 { get; set; }
+        public bool? A79 { get; set; }
+        public bool? A80 { get; set; }
+        public bool? A81 { get; set; }
+        public bool? A82 { get; set; }
+        public bool? A83 { get; set; }
+        public bool? A84 { get; set; }
+        public bool? A85 { get; set; }
+    }
+}

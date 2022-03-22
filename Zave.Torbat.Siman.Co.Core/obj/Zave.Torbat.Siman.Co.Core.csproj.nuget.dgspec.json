@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\source\\repos\\Zave.Torbat.Siman.Co\\Zave.Torbat.Siman.Co.Core\\Zave.Torbat.Siman.Co.Core.csproj": {}
+  },
+  "projects": {
+    "F:\\source\\repos\\Zave.Torbat.Siman.Co\\Zave.Torbat.Siman.Co.Core\\Zave.Torbat.Siman.Co.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\source\\repos\\Zave.Torbat.Siman.Co\\Zave.Torbat.Siman.Co.Core\\Zave.Torbat.Siman.Co.Core.csproj",
+        "projectName": "Zave.Torbat.Siman.Co.Core",
+        "projectPath": "F:\\source\\repos\\Zave.Torbat.Siman.Co\\Zave.Torbat.Siman.Co.Core\\Zave.Torbat.Siman.Co.Core.csproj",
+        "packagesPath": "C:\\Users\\Vahid\\.nuget\\packages\\",
+        "outputPath": "F:\\source\\repos\\Zave.Torbat.Siman.Co\\Zave.Torbat.Siman.Co.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETCore.Encrypt": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

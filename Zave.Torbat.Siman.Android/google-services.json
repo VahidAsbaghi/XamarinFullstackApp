@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753448730948",
+    "firebase_url": "https://zave-torbat.firebaseio.com",
+    "project_id": "zave-torbat",
+    "storage_bucket": "zave-torbat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753448730948:android:70e5044bcefdb675d69711",
+        "android_client_info": {
+          "package_name": "Zave.Torbat.Siman.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753448730948-eatnvik7n15j67cg03m5vkfmvrgo6sh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCrDtpNPb_mehX1shPlsq_LNVUD_h0f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753448730948-eatnvik7n15j67cg03m5vkfmvrgo6sh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
